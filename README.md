@@ -2,13 +2,13 @@
 
 ## Project Description
 
-This is a project designed to show the frontend and backend operations of a website. The website simply fetches the data from a third party database specified in the backend/server.js as https://jsonplaceholder.typicode.com/users via a setup middleware, in JSON format and displays it appropriately.
+This is a project designed to show the frontend and backend operations of a website. The website simply fetches the data from a third party database specified in the `backend/server.js` as https://jsonplaceholder.typicode.com/users via a setup middleware, in JSON format and displays it appropriately. For testing purposes, you can open `frontend/db.json` to access some login details. Type in the username into the username field and the email into the password field of the website.
 
-The basic structure of data sent(or received) can be seen in frontend/interfaces.ts
+The basic structure of data sent(or received) can be seen in `frontend/interfaces.ts`
 
-To start the project locally(on VS Code) start up a live server via the Live Server extension and navigate to frontend/index.html.
+To start the project locally(on VS Code) start up a live server via the Live Server extension and navigate to `frontend/index.html`.
 
-To view the project online(remotely) go to the website:
+To view the project online(remotely) go to the website: https://cpe321-project-1.vercel.app/
 
 ### Group Members
 
